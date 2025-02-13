@@ -1,4 +1,7 @@
 # OpenAmigaVideoHybrid
+
+!!! This version is the same, but is modified for cheaper manufacturing, only Single Sided component placement. 
+
 OpenAmigaVideoHybrid is an Open Hardware implementation of the Video Hybrid integrated circuit used in some Commodore Amiga computers (Commodore Part No. 390229-0x).
 
 ![Board](https://raw.githubusercontent.com/SukkoPera/OpenAmigaVideoHybrid/master/doc/render-top.png)
